@@ -5,28 +5,3 @@
     "youtube-transcript": "^1.2.1"
   }
 }
-```
-
-4. Click "Commit changes"
-
-### Step 4: Deploy to Vercel
-
-1. Go to https://vercel.com/new
-2. Click "Import" next to your `youtube-transcript-api` repository
-3. Click "Deploy"
-4. Wait 30 seconds - Done! ✅
-
-### Step 5: Get Your URL
-
-After deployment, Vercel shows you a URL like:
-```
-https://youtube-transcript-api-xxx.vercel.app
-```
-
-Copy this URL!
-
-### Step 6: Test It
-
-Open in browser:
-```
-https://youtube-transcript-api-xxx.vercel.app/api/transcript?videoId=ZQ7QDWGfRNc
