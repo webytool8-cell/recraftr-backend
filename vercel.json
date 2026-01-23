@@ -1,8 +1,8 @@
 {
-  "functions": {
-    "api/**/*.js": {
-      "memory": 1024,
-      "maxDuration": 10
-    }
+  "name": "youtube-transcript-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "youtubei.js": "^9.0.2"
   }
 }
